@@ -88,7 +88,7 @@ In Toronto, spray foam insulation ranges from $1.75 to $3.00 per square foot wit
 Most older, standard toilets have an average flush volume ranging from 6 to 13 litres, while high efficiency toilets have an average of 4.8 litres. The ROI for replacing existing toilets with highly efficient ones is based on the assumptions that each person flushes the toilet 5 times a day, the cost of a high efficient toilet is $120 greater than a standard toilet and a standard toilet uses 9 litres per flush. Effective April 1, 2019, the rate of water consumption in Toronto is $0.004747688/litre, which is the cost of water used here. To obtain the ROI in years, the daily savings is multiplied by 365.
   
 | Toilet | Price | Litres/Flush |
-|----------|------------|------|
+|:----------:|:------------:|:------:|
 |Standard | $110 | 6 to 13 |
 | Efficient | $150 - $300 | 4.8 |
   
@@ -102,7 +102,7 @@ The average household of 4 people washes roughly 400 loads of laundry each year,
 
 
 | Washing Machine | Price | Cost Per Load |
-|----------|------------|------|
+|:----------:|:------------:|:------:|
 | Standard | $550.00 | $0.62 |
 | High Efficiency | $800.00 | $0.41 |
    
