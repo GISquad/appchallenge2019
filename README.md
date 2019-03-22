@@ -29,11 +29,13 @@ The ROI Calculator provides the user with an estimate of the number of years it 
    
   
 ## User Manual
+  
+To launch the app, click here
 1. Select a neighborhood in Toronto or use the search function and type in an address to navigate to its neighborhood.  
 2. The default view of the app is in 3D, but can easily be switched to 2D by selecting the 2D button at the top.  
 3. Click on a building and a pop-up will appear that gives 6 statistics about its’ height, type, LED savings in dollars, LED savings in CO2 reduced, number of rooftop trees and CO2 reduced from rooftop trees.  
 4. In the top-left of the app, click on the 3 horizontal lines icon and select the “Info” button to bring up a menu that allows you to visualize different statistics, view your neighbourhood summary, and calculate ROI.   
-5. From the dropdown under “Select Information”, click “Building Stats” to view the same 6 statistics as shown in the popup. Here, values from any of these 6 statistics can be used to symbolize the colour and size of the buildings.  
+5. From the dropdown under “Select Information”, click “Building Stats” to view the same 6 statistics as shown in the popup. Here, values from any of these 6 statistics can be used to symbolize the colour and height of the buildings.  
 6. Under “Select Information”, switch from “Building Stats” to “Neighborhood Stats” to see an overview of the selected neighborhood’s efficiency potential.  
 7. Under Select Information, switch from “Neighborhood Stats” to “Calculate my ROI” to estimate your ROI for any of the 4 sustainable options. For Insulation, input the square footage of your household and the cost of your monthly energy bill. Under Water, input the number of toilets you want to upgrade in your household/building and the number of people occupying that space. To determine the ROI for an efficient washer and/or gas dryer, input the number of people in your household.   
 
