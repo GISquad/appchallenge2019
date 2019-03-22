@@ -30,7 +30,7 @@ The ROI Calculator provides the user with an estimate of the number of years it 
   
 ## User Manual
   
-To launch the app, click here
+
 1. Select a neighborhood in Toronto or use the search function and type in an address to navigate to its neighborhood.  
 2. The default view of the app is in 3D, but can easily be switched to 2D by selecting the 2D button at the top.  
 3. Click on a building and a pop-up will appear that gives 6 statistics about its’ height, type, LED savings in dollars, LED savings in CO<sub>2</sub> reduced, number of rooftop trees and CO<sub>2</sub> reduced from rooftop trees.  
