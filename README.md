@@ -61,11 +61,11 @@ To launch the app, click here
 
 The savings from replacing incandescent light bulbs with LED light bulbs are based from the values above. It also assumes 5000 lumens are required for every 250 square feet and each bulb produces 800 lumens (LED and incandescent). The cost of lightbulbs are based on the average prices found in Toronto. The cost of electricity is based on mid-peak prices for Ontario. To convert the area from square meters to square feet, the area of the building is multiplied by 10.7639. The total monetary savings is based on the lifespan of LED light bulbs.   
 
-Savings ($) = (((((Area of Building in m2*10.7639)/250)*5000)/800)/25)*3966.73  
+*Savings ($) = (((((Area of Building in m2*10.7639)/250)*5000)/800)/25)*3966.73*  
 
 The equivalent savings in CO2 is based on the fact that 7.07 × 10-4 metric tons CO2 is saved per kWh. 1287.26 is the amount of kWh savings from switching a single bulb from incandescent to LED.  
 
-Savings (metric tons of CO2) = ((((((Area of Building in m210.7639)/250)*5000)/800)/25)*1287.26)*0.000707  
+*Savings (metric tons of CO2) = ((((((Area of Building in m210.7639)/250)*5000)/800)/25)*1287.26)*0.000707*  
 
 Both the monetary and CO2 savings from switching to LED light bulbs is based on the area of building footprints, so it does not account for multiple floors. To obtain savings for multi-floor buildings, the user can multiply their savings by the number of floors.   
  
@@ -73,5 +73,5 @@ Both the monetary and CO2 savings from switching to LED light bulbs is based on 
 
 In Toronto, spray foam insulation ranges from $1.75 to $3.00 per square foot with an average professional installation cost of $2021. The calculation used assumes a cost of $2.00 per square foot and a spay depth of 1 inch. Based on previous case studies, spray foam insulation reduced a household’s monthly energy bill by an average of 48%. Therefore, in this calculation, we will assume installing spray foam insulation will reduce the monthly energy bill of the user by 40%. The monthly energy savings is multiplied by 12 to obtain ROI in years.   
 
-ROI (years) = (building square foot*2+2021)/((Cost of Monthly Energy Bill*0.4)*12)
+*ROI (years) = (building square foot*2+2021)/((Cost of Monthly Energy Bill*0.4)*12)*
 
