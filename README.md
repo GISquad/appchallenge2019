@@ -1,3 +1,3 @@
-# **Sustainera by GISquad**
+# *Sustainera by GISquad*
 
 Team
