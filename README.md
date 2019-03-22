@@ -69,13 +69,16 @@ The equivalent savings in CO<sub>2</sub> is based on the fact that 7.07 × 10-4 
 
 Both the monetary and CO<sub>2</sub> savings from switching to LED light bulbs is based on the area of building footprints, so it does not account for multiple floors. To obtain savings for multi-floor buildings, the user can multiply their savings by the number of floors.   
  
+   
 **Insulation**  
 
 In Toronto, spray foam insulation ranges from $1.75 to $3.00 per square foot with an average professional installation cost of $2021. The calculation used assumes a cost of $2.00 per square foot and a spay depth of 1 inch. Based on previous case studies, spray foam insulation reduced a household’s monthly energy bill by an average of 48%. Therefore, in this calculation, we will assume installing spray foam insulation will reduce the monthly energy bill of the user by 40%. The monthly energy savings is multiplied by 12 to obtain ROI in years.   
 
 *ROI (years) = (building square footx2+2021)/((Cost of Monthly Energy Billx0.4)x12)*  
   
+    
 **Toilet**  
+  
 Most older, standard toilets have an average flush volume ranging from 6 to 13 litres, while high efficiency toilets have an average of 4.8 litres. The ROI for replacing existing toilets with highly efficient ones is based on the assumptions that each person flushes the toilet 5 times a day, the cost of a high efficient toilet is $120 greater than a standard toilet and a standard toilet uses 9 litres per flush. Effective April 1, 2019, the rate of water consumption in Toronto is $0.004747688/litre, which is the cost of water used here. To obtain the ROI in years, the daily savings is multiplied by 365.
   
 | Toilet | Price | Litres/Flush |
@@ -85,3 +88,34 @@ Most older, standard toilets have an average flush volume ranging from 6 to 13 l
   
  
 *ROI (years) = (# of Toilets to Upgradex120)/((# of Peoplex5x9)-(# of Peoplex5x4.8)x0.004747688x365)*
+  
+  
+**Washer**
+  
+The average household of 4 people washes roughly 400 loads of laundry each year, which roughly equates to 2 loads a week per person. The ROI uses the estimate of saving $0.21 per load and a difference of $250 between a standard and high efficient washing machine. The weekly savings is multiplied by 52 to return a ROI in years. 
+
+
+| Washing Machine | Price | Cost Per Load |
+|----------|------------|------|
+| Standard | $550.00 | $0.62 |
+| High Efficiency | $800.00 | $0.41 |
+   
+*ROI (years) = 250/(# of peoplex2x52x0.21)*
+  
+  
+**Dryer**
+  
+Union Gas estimates a savings of $91.00 a year from switching to a natural gas dryer versus an electric dryer. This comparison is based on a household of 4 people, so the ROI assumes a savings of $22.75 per person annually. It also assumes a gas dryer is $100 more than an electric dryer.
+  
+*ROI (years) = 100/((# people in household/4)x91)*
+
+**Rooftop Trees**
+  
+The number of possible rooftop trees a building can plant is calculated based on the assumption that 36 trees can fit per acre. To convert square meters to acres, the building area is multiplied by 0.000247105. 
+  
+*# of Rooftop Trees: square metersx0.000247105x36*
+
+The amount of CO2 that can be absorbed from the maximum possible number of trees per building is based on the fact that a single tree can absorb 48 pounds of CO2. 
+
+*CO<sub>2</sub> Reduced from Rooftop Trees = possible # of rooftop treesx48*
+
