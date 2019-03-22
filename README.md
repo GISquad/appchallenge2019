@@ -33,7 +33,7 @@ The ROI Calculator provides the user with an estimate of the number of years it 
 To launch the app, click here
 1. Select a neighborhood in Toronto or use the search function and type in an address to navigate to its neighborhood.  
 2. The default view of the app is in 3D, but can easily be switched to 2D by selecting the 2D button at the top.  
-3. Click on a building and a pop-up will appear that gives 6 statistics about its’ height, type, LED savings in dollars, LED savings in CO2 reduced, number of rooftop trees and CO<sub>2</sub> reduced from rooftop trees.  
+3. Click on a building and a pop-up will appear that gives 6 statistics about its’ height, type, LED savings in dollars, LED savings in CO<sub>2</sub> reduced, number of rooftop trees and CO<sub>2</sub> reduced from rooftop trees.  
 4. In the top-left of the app, click on the 3 horizontal lines icon and select the “Info” button to bring up a menu that allows you to visualize different statistics, view your neighbourhood summary, and calculate ROI.   
 5. From the dropdown under “Select Information”, click “Building Stats” to view the same 6 statistics as shown in the popup. Here, values from any of these 6 statistics can be used to symbolize the colour and height of the buildings.  
 6. Under “Select Information”, switch from “Building Stats” to “Neighborhood Stats” to see an overview of the selected neighborhood’s efficiency potential.  
@@ -115,7 +115,7 @@ The number of possible rooftop trees a building can plant is calculated based on
   
 *# of Rooftop Trees = square metersx0.000247105x36*
 
-The amount of CO2 that can be absorbed from the maximum possible number of trees per building is based on the fact that a single tree can absorb 48 pounds of CO2. 
+The amount of CO<sub>2</sub> that can be absorbed from the maximum possible number of trees per building is based on the fact that a single tree can absorb 48 pounds of CO<sub>2</sub>. 
 
 *CO<sub>2</sub> Reduced from Rooftop Trees = possible # of rooftop treesx48*
   
@@ -143,7 +143,7 @@ Cost per Bulb: https://www.homedepot.ca/en/home/categories/lighting-and-ceiling-
 Energy Used by Bulbs: https://learn.eartheasy.com/guides/led-light-bulbs-comparison-charts/ 
 Cost of Electricity: http://www.ontario-hydro.com/current-rates 
 Bulbs Required for Area: https://www.archdaily.com/897277/how-to-determine-how-many-led-lumens-youll-need-to-properly-light-your-space 
-CO2 Equivalent of Savings: https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references   
+CO<sub>2</sub> Equivalent of Savings: https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references   
   
 **Insolation**
 Fibreglass Pricing: https://www.homeadvisor.com/cost/insulation/ 
@@ -166,7 +166,7 @@ Savings: https://www.uniongas.com/residential/products-services/appliances-equip
   
 **Trees**
 Number of Trees per Area: https://www.woodmagazine.com/materials-guide/lumber/let-your-trees-grow-for-profit
-CO2 Absorbance of trees: https://projects.ncsu.edu/project/treesofstrength/treefact.htm  
+CO<sub>2</sub> Absorbance of trees: https://projects.ncsu.edu/project/treesofstrength/treefact.htm  
   
 
   
