@@ -3,9 +3,7 @@ Sustainera is a web application that estimates the potential energy and CO2 savi
 
 ### Team
 * Matthew Brown: Lead Designer
-
 * Tasos Dardas: Lead Developer
-
 * Michele Tsang: Lead Researcher 
 
 # Mission Statement
