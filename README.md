@@ -16,12 +16,12 @@ Our app, Sustainera, aims to promote sustainable buildings using 2 strategies; r
 
 # App Description & Features
 
-1. Neighborhood Statistics
+1. **Neighborhood Statistics**  
 By selecting a neighborhood, the user can identify the number of existing buildings and the proportion that is residential and non-residential. Based on the total area of these buildings, the number of LED light bulbs required for upgrading from incandescent can be estimated, which is used to calculate the savings in dollars over the lifespan of the light bulbs. This informs the user of the net savings of neighborhoods as the value accounts for the cost of LED bulbs. Switching to LED not only has monetary savings but also reduces CO2 emissions by using less energy. The equivalent savings in pounds of CO2 is also estimated from upgrading to LED bulbs for a neighborhood. The total area of buildings within a neighborhood is also used to calculate the number of possible rooftop trees that can be planted. Based on the number of trees, the amount of CO2 emissions, in pounds, that can be absorbed by them can also be estimated. 
 
-2. Building Statistics
+2. **Building Statistics**  
 After the user selects a neighborhood, buildings can be symbolized in 3D by 6 different categories, the height of a building, type of building (residential versus non-residential), LED savings (dollars), number of rooftop trees, the amount of CO2 reduced from LED light bulbs or the amount of CO2 reduced from rooftop trees. Similar to the neighborhood statistics, the LED savings (dollars) can be determined based on the area of a single building, as well as the amount of CO2 reduced (pounds) from LEDs using less energy. The area of each building also estimates the possible number of rooftop trees that can be planted, which is also used to determine the amount of CO2 that can be potentially absorbed.
 
 
-3. Return of Investment (ROI) Calculator 
+3. **Return of Investment (ROI) Calculator**   
 The ROI Calculator provides the user with an estimate of the number of years it takes for their money to be made back from switching to spray foam insulation, 4.8L/flush toilets, high efficient washing machines and/or gas dryers. Using inputs from the user, such as the area they want to insulate, the number of toilets they want to upgrade or the number of people in the household, dynamic ROI times can be estimated. The value returned is based on the cost of upgrades and installation and the savings in utilities. After the ROI period, the user will only be saving money from switching over to these highly efficient options. 
