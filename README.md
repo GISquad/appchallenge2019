@@ -1,5 +1,3 @@
-HEADING
-===
 # **Sustainera by GISquad**
 
-Team
+## Team
