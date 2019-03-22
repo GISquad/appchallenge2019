@@ -84,4 +84,4 @@ Most older, standard toilets have an average flush volume ranging from 6 to 13 l
 | Efficient | $150 - $300 | 4.8 |
   
  
-*ROI (years) = (# of Toilets to Upgradex120)/((# of People*5*9)-(# of Peoplex5x4.8)x0.004747688x365)*
+*ROI (years) = (# of Toilets to Upgradex120)/((# of Peoplex5x9)-(# of Peoplex5x4.8)x0.004747688x365)*
