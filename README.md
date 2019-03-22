@@ -6,6 +6,7 @@ Sustainera is a web application that estimates the potential energy and CO2 savi
 * Tasos Dardas: Lead Developer
 * Michele Tsang: Lead Researcher 
 
+
 # Mission Statement
 
 In Canada, buildings account for almost a third of its’ annual greenhouse gas (GHG) emissions. As Canadian cities continue to grow, so does the demand for energy. Buildings have a substantial impact on the environment as they use resources, generate waste and are costly to maintain and operate. There is high potential to deliver significant cuts in emissions at very little costs, benefiting the environment, economy and society. With new constructions, renovations or retrofits, buildings in Toronto can achieve superior levels of energy efficiency by using fewer resources, reducing waste, improving air quality and eliminating negative environmental impacts. 
