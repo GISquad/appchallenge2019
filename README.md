@@ -139,7 +139,11 @@ The amount of CO<sub>2</sub> that can be absorbed from the maximum possible numb
 **Land Use**
 * DMTI Spatial Inc. via Scholars GeoPortal: http://geo2.scholarsportal.info/#r/details/_uri@=2785150059
   
-    
+**Our Team's ArcGIS REST API** 
+* Neighborhoods: https://services.arcgis.com/3wgo1qnFL7YLB8lT/ArcGIS/rest/services/Parsed_Final/FeatureServer
+* Trees: https://services.arcgis.com/3wgo1qnFL7YLB8lT/ArcGIS/rest/services/ParsedTrees/FeatureServer  
+  
+  
 ## Sources
 
 ### Calculations
