@@ -1,7 +1,7 @@
 # Sustainera by GISquad
 Sustainera is a web application that estimates the potential energy and CO2 savings of buildings and neighborhoods in Toronto, Ontario
 
-## Team
+### Team
 * Matthew Brown: Lead Designer
 
 * Tasos Dardas: Lead Developer
