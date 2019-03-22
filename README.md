@@ -132,4 +132,46 @@ The amount of CO2 that can be absorbed from the maximum possible number of trees
   
 **Land Use**
 * DMTI Spatial Inc. via Scholars GeoPortal: http://geo2.scholarsportal.info/#r/details/_uri@=2785150059
+  
+    
+## Sources
 
+### Calculations
+**Lighting**
+Lifespan of Bulbs: http://www.ontario-hydro.com/cost-benefit-of-led-lighting
+Cost per Bulb: https://www.homedepot.ca/en/home/categories/lighting-and-ceiling-fans/light-bulbs.html
+Energy Used by Bulbs: https://learn.eartheasy.com/guides/led-light-bulbs-comparison-charts/ 
+Cost of Electricity: http://www.ontario-hydro.com/current-rates 
+Bulbs Required for Area: https://www.archdaily.com/897277/how-to-determine-how-many-led-lumens-youll-need-to-properly-light-your-space 
+CO2 Equivalent of Savings: https://www.epa.gov/energy/greenhouse-gases-equivalencies-calculator-calculations-and-references   
+  
+**Insolation**
+Fibreglass Pricing: https://www.homeadvisor.com/cost/insulation/ 
+Spray Foam Pricing: http://torontosprayfoam.site/blog/spray-foam-insulation-cost-in-toronto/ 
+% Savings of Monthly Energy Bill: https://www.gni.ca/insulation-101/insulation-case-study-roi   
+  
+**Water**
+Toilet Price: https://www.homedepot.ca/en/home/categories/bath/toilets-toilet-seats-and-bidets/toilets.html?sort=price-asc
+Flushes per Person: http://leansixsigmaenvironment.org/index.php/how-many-times-do-you-flush-the-toilet-per-day-you-might-be-surprised/ 
+Cost of Water: https://www.toronto.ca/services-payments/property-taxes-utilities/utility-bill/water-rates-and-fees/   
+  
+**Washer**
+Machine Cost: https://www.bestbuy.ca/en-ca/category/washing-machines/33931p.aspx 
+Cost Per Load: https://www.thesimpledollar.com/saving-pennies-or-dollars-energy-efficient-clothes-washing/
+Loads a Year: https://www.home-water-works.org/indoor-use/clothes-washer   
+  
+**Dryer**
+Machine Cost: https://www.bestbuy.ca/en-ca/category/dryers/33932p.aspx 
+Savings: https://www.uniongas.com/residential/products-services/appliances-equipment/dryer/dryer-cost-comparison  
+  
+**Trees**
+Number of Trees per Area: https://www.woodmagazine.com/materials-guide/lumber/let-your-trees-grow-for-profit
+CO2 Absorbance of trees: https://projects.ncsu.edu/project/treesofstrength/treefact.htm  
+  
+
+  
+### Mission Statement
+* https://www.toronto.ca/city-government/planning-development/official-plan-guidelines/toronto-green-standard/toronto-green-standard-overview/
+*	https://www.toronto.ca/wp-content/uploads/2017/11/91f6-TransformTO-Modelling-Torontos-Low-Carbon-Future-Results-of-Modelling-Gr....pdf
+*	http://blog.morrisonhershfield.com/toronto-green-standard-v3-updated-to-target-near-zero-emissions-for-new-development-by-2030
+*	https://www.worldgbc.org/benefits-green-buildings
