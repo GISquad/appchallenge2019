@@ -41,7 +41,7 @@ To launch the app, click here
 
 ## Calculations and Assumptions 
 #
-**###Lighting**
+###Lighting
 
 |          |      LED      |  Incandescent |
 |----------|-------------:|------:|
