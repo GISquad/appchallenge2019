@@ -40,6 +40,8 @@ To launch the app, click here
 7. Under Select Information, switch from “Neighborhood Stats” to “Calculate my ROI” to estimate your ROI for any of the 4 sustainable options. For Insulation, input the square footage of your household and the cost of your monthly energy bill. Under Water, input the number of toilets you want to upgrade in your household/building and the number of people occupying that space. To determine the ROI for an efficient washer and/or gas dryer, input the number of people in your household.   
 
 ## Calculations and Assumptions 
+#
+**###Lighting**
 
 |          |      LED      |  Incandescent |
 |----------|-------------:|------:|
