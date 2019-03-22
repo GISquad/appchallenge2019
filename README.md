@@ -43,14 +43,14 @@ To launch the app, click here
 
 |          |      LED      |  Incandescent |
 |----------|:-------------:|------:|
-| Lifespan (hours) |  25000 | 1200 |
-| Watts per bulb | 8.5 | $12 |
-| Cost per bulb | $4.00 | $2.00 |
-| KWh of electricity used over 25 000 hours | 212.5 | 1499.76 |
-| Cost of electricity (@ $0.094 per KWh) | $19.98 | $140.98 |
-| Bulbs needed for 25 000 hours of use | 1 | 21 |
-| Equivalent 25 000 hours bulb expense | $4.00 | $42 |
-| Total Cost for 25 000 hours | $23.98 | $182.64 | 
+| Lifespan (hours) |    25000 | 1200 |
+| Watts per bulb |   8.5 | $12 |
+| Cost per bulb |   $4.00 | $2.00 |
+| KWh of electricity used over 25 000 hours |   212.5 | 1499.76 |
+| Cost of electricity (@ $0.094 per KWh) |   $19.98 | $140.98 |
+| Bulbs needed for 25 000 hours of use |   1 | 21 |
+| Equivalent 25 000 hours bulb expense |   $4.00 | $42 |
+| Total Cost for 25 000 hours |   $23.98 | $182.64 | 
 
 
 Energy Savings over 25000 hours assuming 25 bulbs per household
