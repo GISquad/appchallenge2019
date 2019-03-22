@@ -126,8 +126,10 @@ The amount of CO2 that can be absorbed from the maximum possible number of trees
   
 **Toronto Buildings**
 * City of Toronto Open Data Catalogue: https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#db07630f-252d-f7ae-2dff-8d0b38ec6576  
+  
 **Toronto Trees**
-* City of Toronto Open Data Catalogue: https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#0e785adb-d130-8957-a572-5d6fdb5cc275  
+* City of Toronto Open Data Catalogue: https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#0e785adb-d130-8957-a572-5d6fdb5cc275 
+  
 **Land Use**
 * DMTI Spatial Inc. via Scholars GeoPortal: http://geo2.scholarsportal.info/#r/details/_uri@=2785150059
 
