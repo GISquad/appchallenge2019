@@ -42,7 +42,7 @@ To launch the app, click here
 ## Calculations and Assumptions 
 
 |          |      LED      |  Incandescent |
-|----------|:-------------:|------:|
+|----------|-------------:|------:|
 | Lifespan (hours) |    25000 | 1200 |
 | Watts per bulb |   8.5 | $12 |
 | Cost per bulb |   $4.00 | $2.00 |
