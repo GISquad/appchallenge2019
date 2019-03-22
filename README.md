@@ -61,7 +61,7 @@ To launch the app, click here
 
 The savings from replacing incandescent light bulbs with LED light bulbs are based from the values above. It also assumes 5000 lumens are required for every 250 square feet and each bulb produces 800 lumens (LED and incandescent). The cost of lightbulbs are based on the average prices found in Toronto. The cost of electricity is based on mid-peak prices for Ontario. To convert the area from square meters to square feet, the area of the building is multiplied by 10.7639. The total monetary savings is based on the lifespan of LED light bulbs.   
 
-*Savings ($) = (((((Area of Building in m2*10.7639)/250)*5000)/800)/25)*3966.73*  
+*Savings ($) = (((((Area of Building in m2x10.7639)/250)x5000)/800)/25)x3966.73*  
 
 The equivalent savings in CO2 is based on the fact that 7.07 × 10-4 metric tons CO2 is saved per kWh. 1287.26 is the amount of kWh savings from switching a single bulb from incandescent to LED.  
 
