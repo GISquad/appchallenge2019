@@ -60,7 +60,7 @@ The ROI Calculator provides the user with an estimate of the number of years it 
 | Equivalent 25 000 hours bulb expense |   $4.00 | $42 |
 | Total Cost for 25 000 hours |   $23.98 | $182.64 | 
 |                                                      |                 
-| Energy Savings over 25000 hours assuming 25 bulbs per household | 
+| Energy Savings over 25000 hours assuming 25 bulbs per household || 
 | Total Cost for 25 bulbs | $599.38 | $4,566.10|
 | Savings to household from switching to incandescent | $3,966.73||
 
