@@ -113,7 +113,7 @@ Union Gas estimates a savings of $91.00 a year from switching to a natural gas d
   
 The number of possible rooftop trees a building can plant is calculated based on the assumption that 36 trees can fit per acre. To convert square meters to acres, the building area is multiplied by 0.000247105. 
   
-*# of Rooftop Trees: square metersx0.000247105x36*
+*# of Rooftop Trees = square metersx0.000247105x36*
 
 The amount of CO2 that can be absorbed from the maximum possible number of trees per building is based on the fact that a single tree can absorb 48 pounds of CO2. 
 
